@@ -1,0 +1,7 @@
+Changes
+MANIFEST
+Makefile.PL
+data/af10420e
+data/ee074b12
+lib/Data/CDDB/File.pm
+t/readfile.t
